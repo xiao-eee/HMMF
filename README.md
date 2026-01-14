@@ -1,3 +1,3 @@
 # HMMF
 
-Code will coming soon.
+The code will be released soon.
